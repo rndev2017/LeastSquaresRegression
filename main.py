@@ -16,5 +16,6 @@ def main(file_path):
     print("The %dth day is the coldest day of the year" % min_temp)
     print("The %drh day is the warmest day of the year" % max_temp)
 
+
 if __name__ == "__main__":
     main(sys.argv[1])
