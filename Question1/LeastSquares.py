@@ -3,7 +3,7 @@ from math import cos, sin, pi
 from numpy.linalg import lstsq
 import matplotlib.pyplot as plt
 from typing import List
-from DataParser import DataPoint
+from Question1.DataParser import DataPoint
 
 """
 Plotting functions & Data Preparation
